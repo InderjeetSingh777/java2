@@ -41,7 +41,7 @@ public class dict_keywords {
 				output+=keywords[i];
 				output+='\n';
 				wr.write(output);
-				//System.out.println(keywords[i]);
+				System.out.println(keywords[i]);
 				count++;
 			}
 		}
