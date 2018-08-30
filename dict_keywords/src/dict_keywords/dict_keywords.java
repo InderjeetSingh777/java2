@@ -50,9 +50,8 @@ public class dict_keywords {
 		System.out.println(output);
 		output="";
 		wr.close();
-//		byte b=(byte)0xf1;
-//		System.out.println(b);
-		
+		byte b=(byte)0xf1;
+		System.out.println(b);
 		}
 		catch (IOException ioe) 
 	       {
